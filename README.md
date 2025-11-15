@@ -1,7 +1,7 @@
 # Real-Time Chat Application
 
 A **real-time chat app** built with **React (frontend)**, **Node.js/Express (backend)**, **Socket.IO (real-time messaging)**, and **MongoDB (database)**.  
-It supports **one-to-one chat**, live message syncing, and is ready for **deployment on Vercel + Render**.
+It supports **one-to-one chat**, live message syncing.
 
 ---
 
